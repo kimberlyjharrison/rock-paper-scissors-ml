@@ -24,6 +24,11 @@ This project takes a machine-learning approach to the classic game of Rock, Pape
 * sci-kit learn
 * Pandas, Numpy, MatplotLib, Jupyter Nobteook
 
+<hr>
+#### Example
+
+![](img/rps.gif)
+
 <br>
 <hr>
 Acknowledgments: Thanks to the creators of the  [Emojintaor App] (https://github.com/akshaybahadur21/Emojinator) for inspiration and guidance during this project!

@@ -30,9 +30,9 @@ def playRPS(user):
     ## generate random interger between 0-2 inclusive for computer choice;
     ## follow rock, paper, scissors logic
     cpu = np.random.randint(0, 3)
-    if user == 0 and cpu == 2:
+    if user == 0 and cpu == 1:
         return 'User Wins!', cpu
-    elif user == 0 and cpu == 1:
+    elif user == 0 and cpu == 2:
         return 'CPU Wins!', cpu
     elif user == 1 and cpu == 2:
         return 'User Wins!', cpu
