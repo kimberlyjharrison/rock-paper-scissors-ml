@@ -16,9 +16,9 @@ This project takes a machine-learning approach to the classic game of Rock, Pape
 
 1.	Recommended: create new virtual environment using conda
 2. Install Dependencies in requirements.txt
-2.	Run `create_gesture_images.py` to create a library of images that will be used to train and test a CNN (utlizes OpenCV)
-3. Run `to_csv.ipynb` to format and convert those images into a csv file that will be used as the training dataset (utlizes Pandas, Numpy)
-4. Run `create_model.ipynb` to create, train, evaluate and save the CNN model (utlizes Numpy, TensorFlow, Keras, sci-kit learn)
+2.	Run `create_gesture_images.py` to create a library of images that will be used to train and test a CNN (utilizes OpenCV)
+3. Run `to_csv.ipynb` to format and convert those images into a csv file that will be used as the training dataset (utilizes Pandas, Numpy)
+4. Run `create_model.ipynb` to create, train, evaluate and save the CNN model (utilizes Numpy, TensorFlow, Keras, sci-kit learn)
 5. Run `rps.py` to play Rock, Paper, Scissors using machine learning!
 
 #### Libraries
