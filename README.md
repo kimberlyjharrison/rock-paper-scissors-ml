@@ -9,7 +9,7 @@ This project takes a machine-learning approach to the classic game of Rock, Pape
 
 #### Example
 
-![](img/rps.gif)
+![](rps.gif)
 
 
 #### Steps
