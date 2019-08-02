@@ -30,4 +30,4 @@ This project takes a machine-learning approach to the classic game of Rock, Pape
 
 <br>
 <hr>
-Acknowledgments: Thanks to the creators of the [Emojintaor App](#https://github.com/akshaybahadur21/Emojinator) for inspiration and guidance during this project!
+Acknowledgments: Thanks to the creators of the [Emojintaor App](https://github.com/akshaybahadur21/Emojinator/) for inspiration and guidance during this project!
