@@ -30,4 +30,6 @@ This project takes a machine-learning approach to the classic game of Rock, Pape
 
 <br>
 <hr>
-Acknowledgments: Thanks to the creators of the [Emojintaor App](https://github.com/akshaybahadur21/Emojinator/) for inspiration and guidance during this project!
+#### Acknowledgments 
+* Thanks to the creators of the [Emojintaor App](https://github.com/akshaybahadur21/Emojinator/) for inspiration and guidance during this project!
+* In-depth explanation of [building a CNN model with Tesnsor Flow] (https://stackabuse.com/image-recognition-in-python-with-tensorflow-and-keras/)
