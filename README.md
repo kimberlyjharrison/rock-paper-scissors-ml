@@ -25,7 +25,7 @@ This project takes a machine-learning approach to the classic game of Rock, Pape
 * Open CV
 * TensorFlow with Keras
 * sci-kit learn
-* Pandas, Numpy, MatplotLib, Jupyter Nobteook
+* Pandas, Numpy, MatplotLib, Jupyter Notebook
 
 
 <br>
